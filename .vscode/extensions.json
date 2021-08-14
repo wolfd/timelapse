@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "arrterian.nix-env-selector",
+        "bbenoist.nix" // for formatting (using nix-env-selector to get nixpkgs-fmt)
+    ]
+}
